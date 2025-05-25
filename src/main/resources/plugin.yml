@@ -1,0 +1,4 @@
+name: FlexGamemode
+version: '${project.version}'
+main: me.bedtwL.gm.Main
+api-version: '1.13'
