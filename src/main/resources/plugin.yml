@@ -2,3 +2,19 @@ name: FlexGamemode
 version: '${project.version}'
 main: me.bedtwL.gm.Main
 api-version: '1.13'
+author: [bedtwL]
+commands:
+  gmc:
+    description: Set gamemode to Creative
+    usage: /<command> [player]
+  gms:
+    description: Set gamemode to Survival
+    usage: /<command> [player]
+  gma:
+    description: Set gamemode to Adventure
+    usage: /<command> [player]
+  gmsp:
+    description: Set gamemode to Spectator
+    usage: /<command> [player]
+  gmr:
+    description: Reloads the config

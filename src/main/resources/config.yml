@@ -1,0 +1,14 @@
+permissions:
+  gmc: "bedtwl.gm.gmc"
+  gms: "bedtwl.gm.gms"
+  gma: "bedtwl.gm.gma"
+  gmsp: "bedtwl.gm.gmsp"
+  gmr: "bedtwl.gm.reload"
+
+messages:
+  no-permission: "§cYou don't have permission to use this command."
+  player-not-found: "§cPlayer not found."
+  not-a-player: "§cOnly players can use this command without arguments."
+  gamemode-changed-self: "§aYour gamemode has been set to %gamemode%."
+  gamemode-changed-other: "§aYou set %target%'s gamemode to %gamemode%."
+  config-reloaded: "§aConfiguration reloaded successfully."
