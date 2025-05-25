@@ -1,5 +1,7 @@
 ## 📄 FlexGamemode Plugin
 
+Spigot: https://www.spigotmc.org/resources/flexgamemode.125369/
+
 This Spigot plugin allows players and administrators to change game modes easily using the following commands:
 
 * `/gmc [player]` — Set Creative mode
